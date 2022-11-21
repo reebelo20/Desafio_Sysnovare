@@ -1,0 +1,17 @@
+[
+    {
+        "email": "teste123@gmail.com",
+        "password": "aa1bf4646de67fd9086cf6c79007026c",
+        "saldo": 12300
+    },
+    {
+        "email": "ruypedro2011@hotmail.com",
+        "password": "21c65b195ba969738839fff247924569",
+        "saldo": 123456700
+    },
+    {
+        "email": "testeInscricao@gamil.com",
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "saldo": 123456789
+    }
+]
